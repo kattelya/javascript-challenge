@@ -25,9 +25,11 @@ tableData.forEach((ufoSighted) => {
 });
 }
 
+// figure out the 1st half of the assignment how to read from data.js and add data to html table provided on our index.html file. 
+//2nd half need to code the filter from date column - need to review exercise 9 from 14-intro-to-javascript
 // select the filter type and value 
-var filterType = d3.select("#filter-type");
-var filterTypeValue =d3.select("#filter-type-value");
+// TBD need review - var filterType = d3.select("#filter-type");
+// TBD need review - var filterTypeValue =d3.select("#filter-type-value");
 
 
 // https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Traversing_an_HTML_table_with_JavaScript_and_DOM_Interfaces 
